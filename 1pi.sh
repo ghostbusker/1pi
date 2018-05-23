@@ -129,8 +129,7 @@ sudo dpkg --list |grep "^rc" | cut -d " " -f 3 | xargs dpkg --purge
 sudo apt-get clean
 
 ###STEP3 - Upgrade
-Sudo apt-get upgrade -y
+sudo apt-get upgrade -y
 
 echo "seems like we're done here. thanks, ghostbusker"
-pause
-
+read ghostbusker
