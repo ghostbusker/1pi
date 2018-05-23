@@ -108,6 +108,7 @@ python3-numpy
 python3-pifacecommon python3-pifacedigitalio python3-pifacedigital-scratch-handler python-pifacecommon python-pifacedigitalio
 oracle-java8-jdk
 minecraft-pi python-minecraftpi
+libreoffice*
 wolfram-engine
 "
 
