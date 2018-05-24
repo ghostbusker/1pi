@@ -90,26 +90,47 @@ epiphany-browser
 xpdf
 weston
 omxplayer
-qt50-snapshot qt50-quick-particle-examples
-idle python3-pygame python-pygame python-tk
+#qt50-snapshot qt50-quick-particle-examples
+idle 
+python3-pygame 
+python-pygame 
+python-tk
 idle3 python3-tk
 python3-rpi.gpio
-python-serial python3-serial
-python-picamera python3-picamera
-python3-pygame python-pygame python-tk
+python-serial 
+python3-serial
+python-picamera 
+python3-picamera
+python3-pygame 
+python-pygame 
+python-tk
 python3-tk
-debian-reference-en dillo x2x
-scratch nuscratch
+debian-reference-en 
+dillo x2x
+scratch2 
+#nuscratch
 timidity
-smartsim penguinspuzzle
+smartsim 
+#penguinspuzzle
 pistore
 sonic-pi
 python3-numpy
-python3-pifacecommon python3-pifacedigitalio python3-pifacedigital-scratch-handler python-pifacecommon python-pifacedigitalio
+python3-pifacecommon 
+python3-pifacedigitalio 
+python3-pifacedigital-scratch-handler 
+python-pifacecommon 
+python-pifacedigitalio
 oracle-java8-jdk
-minecraft-pi python-minecraftpi
+minecraft-pi 
+python-minecraftpi
 libreoffice*
 wolfram-engine
+greenfoot
+bluej
+geany
+nodered
+bluez
+bluez-firmware
 "
 
 # Go Thru and remove one at a time...
